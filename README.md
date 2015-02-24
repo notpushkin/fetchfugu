@@ -10,6 +10,7 @@ In auth.yml:
 ```yaml
 username: iamale
 password: 1t1sl0ng4ndc00l
+# replace with your login/pass
 ```
 
 ```
