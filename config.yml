@@ -1,0 +1,10 @@
+grabber:
+  auth_file: auth.yml
+  path: src/
+  index_file: index.txt
+
+epub:
+  index_file: index.txt
+  meta_file: metadata.xml
+  output: dist/textfugu.epub
+  options: []
