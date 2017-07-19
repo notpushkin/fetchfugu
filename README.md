@@ -37,4 +37,5 @@ Dependencies
 * [python-requests](http://python-requests.org/)
 * [Beautiful Soup 4](http://www.crummy.com/software/BeautifulSoup/)
 * [Bleach](http://bleach.readthedocs.org/)
+* [PyYAML](http://pyyaml.org/)
 * [Pandoc](http://pandoc.org/)
